@@ -9,7 +9,7 @@ import { showNotification as show } from "./helpers/helpers";
 
 import "./App.css";
 
-const words = ["application", "programming", "interface", "wizard"];
+const words = ["application", "programming", "interface", "wizard","python","development","website","elephant","peacock","martin","millionaire","validation"];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
 const App = () => {
